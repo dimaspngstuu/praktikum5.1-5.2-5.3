@@ -1,0 +1,27 @@
+body {
+    width: auto;
+    height: 600px;
+    padding: 10px;
+}
+.box-1,.box-2,.box-3,.box-4 {
+    width: 20%;
+    height: 600px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.box-1{
+    background-color: yellow; 
+    float: left;
+}
+.box-2{
+    background-color: rgb(224, 62, 62);
+    float: left;
+}
+.box-3{
+    background-color: forestgreen;
+    float: left;
+}
+.box-4{
+    background-color: cornflowerblue;
+    float: left;
+}
